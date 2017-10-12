@@ -4,4 +4,4 @@
 
 Date | Experiment | Notes
 ---- | -------- | -----
-2017-10-12 | PCR amplifying fragments | In progress
+2017-10-12 | [PCR amplifying fragments](PCRAmplify-DeletionPlasmidFragments.md) | In progress
